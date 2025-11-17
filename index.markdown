@@ -28,6 +28,7 @@ If you choose and wish to do so, you may also include a Creative Commons license
 Here and throughout your edition, you should use footnotes in Chicago Notes and Bibliography style.[^1]  Please note that if sources are listed in your bibliography (and all your main ones should be), you may use a shortened form in these notes (e.g. Smith, _Towards a Better Understanding_, 5, with the full citation to Smith going in the bibliography).
 
 # The Source
+{% include media_next.html pages=media %}
 
 This section provides the main presentation of your source, as you have prepared it for readers (i.e., a facsimile, transcription, video, audio clip, etc.). This section is where we satisfy the first of the ADE’s three criteria for an electronic edition by providing a rigorous, accurate presentation of historical material.
 
